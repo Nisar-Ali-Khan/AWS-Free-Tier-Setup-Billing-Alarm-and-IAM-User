@@ -1,0 +1,12 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Never commit credentials
+*.csv
+*.pem
+*.key
+.env
